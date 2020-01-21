@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/callitem"
+        android:title="mycall"
+        android:icon="@android:drawable/sym_call_outgoing"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/noteitem"
+        android:title="mynote"
+        android:icon="@android:drawable/ic_input_add"
+        app:showAsAction="always" />
+
+</menu>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/share_content"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="note"
+        app:showAsAction="always"
+        tools:title="note" />
+
+    <item
+        android:id="@+id/set_calander"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="note"
+        app:showAsAction="always"
+        tools:title="note" />
+
+    <item
+        android:id="@+id/savemanu"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="note"
+        app:showAsAction="always"
+        tools:title="note" />
+
+</menu>
